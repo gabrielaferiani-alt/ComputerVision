@@ -2,7 +2,7 @@
 
 **FIAP MBA em Machine Learning & Inteligência Artificial**  
 **Disciplina:** Visão Computacional  
-**Aluna:** Gabriela Feriani Leoni
+**Alunos:** Gabriela Feriani Leoni e Raphael Alberto Suppi
 
 ---
 

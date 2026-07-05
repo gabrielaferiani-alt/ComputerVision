@@ -1,0 +1,6 @@
+# IMPORTANTE: use opencv-contrib-python (inclui cv2.face com LBPH).
+# Se já tiver opencv-python instalado, desinstale primeiro:
+#   pip uninstall opencv-python
+opencv-contrib-python>=4.5.0
+Pillow>=9.0.0
+numpy>=1.21.0

@@ -111,9 +111,7 @@ banco-autenticacao-facial/
 
 ---
 
-## Referências
+## Links
 
-- Repositório FIAP: [fiap-ml-visao-computacional](https://github.com/FIAPON/fiap-ml-visao-computacional)
-- OpenCV Haar Cascades: `aula-4-analise-facial/classificadores/`
-- Técnicas: Aula 4 (Análise Facial) e Aula 5 (ML Aplicado)
-- Dataset de referência: `dataset-fer-2013-facial-expressions/`
+- Youtube:https://www.youtube.com/watch?v=R8jIxPi6YKw
+- GitHub:https://github.com/gabrielaferiani-alt/ComputerVision
